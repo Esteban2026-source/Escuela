@@ -246,7 +246,7 @@ Conocer Modelo Educativo
 
 <h3 class="font-bold text-lg mb-1">Ciencia y Espiritualidad</h3>
 
-<p class="text-xs text-slate-300">Armonía entre la investigación científica y el crecimiento moral.</p>
+<p class="text-xs text-slate-300">Armonía entre la ciencia y la religion.</p>
 
 </div>
 
@@ -578,7 +578,7 @@ Un plan de estudios dinámico estructurado por niveles de aprendizaje moral, int
 
 <i class="fa-solid fa-check text-bahai-gold mt-1 mr-3"></i>
 
-<span><strong>Memorización de Frases y Canciones:</strong> Aprendizaje a través de la música y la narración oral.</span>
+<span><strong>Memorización de citas y Canciones:</strong> Aprendizaje a través de la música y la narración oral.</span>
 
 </li>
 
@@ -596,7 +596,7 @@ Un plan de estudios dinámico estructurado por niveles de aprendizaje moral, int
 
 <div class="pt-4 border-t border-slate-100 text-xs text-emerald-700 font-semibold flex items-center justify-between">
 
-<span><i class="fa-solid fa-child mr-1"></i> Educación Moral Inicial</span>
+<span><i class="fa-solid fa-child mr-1"></i> Educación Moral </span>
 
 <span class="bg-emerald-100 text-emerald-800 px-2.5 py-1 rounded-full">Nivel 1</span>
 
@@ -642,7 +642,7 @@ Un plan de estudios dinámico estructurado por niveles de aprendizaje moral, int
 
 <i class="fa-solid fa-check text-bahai-gold mt-1 mr-3"></i>
 
-<span><strong>Lectura y Comprensión Moral:</strong> Historias ilustradas con principios éticos.</span>
+<span><strong>Desarrollo de estructura moral solidos:</strong> Historias ilustradas con principios éticos.</span>
 
 </li>
 
@@ -698,7 +698,7 @@ Un plan de estudios dinámico estructurado por niveles de aprendizaje moral, int
 
 <i class="fa-solid fa-check text-bahai-gold mt-1 mr-3"></i>
 
-<span><strong>Historia Escogida y Ejemplos de Vida:</strong> Lecciones basadas en vidas dedicadas al servicio.</span>
+<span><strong>Relato de la vida de Abdul-baha:</strong> Lecciones basadas en vidas dedicadas al servicio.</span>
 
 </li>
 
@@ -770,7 +770,7 @@ Un plan de estudios dinámico estructurado por niveles de aprendizaje moral, int
 
 <i class="fa-solid fa-check text-bahai-gold mt-1 mr-3"></i>
 
-<span><strong>Materiales Especializados:</strong> Modulos como <em>"Brisa de Confirmación"</em>, <em>"Caminando con Pasos Firmes"</em> y <em>"Pensar en las Matemáticas"</em>.</span>
+<span><strong>Materiales Especializados:</strong> Modulos como <em>"Brisa de Confirmación"</em>, <em>"manantial de aleria"</em> y <em>"Pensemos en los numeros"</em>.</span>
 
 </li>
 
@@ -930,7 +930,7 @@ Un plan de estudios dinámico estructurado por niveles de aprendizaje moral, int
 
 <h4 class="font-bold text-bahai-blue">Ubicación</h4>
 
-<p class="text-sm text-slate-600">Av. Las Flores #18, Valle Verde, Ciudad de Panamá</p>
+<p class="text-sm text-slate-600">Av. Comunidad de Soloy, Comarca Ngabe Bugle, Ciudad de Panamá</p>
 
 </div>
 
@@ -948,7 +948,7 @@ Un plan de estudios dinámico estructurado por niveles de aprendizaje moral, int
 
 <h4 class="font-bold text-bahai-blue">Correo Electrónico</h4>
 
-<p class="text-sm text-slate-600">contacto@escuelabahai.edu</p>
+<p class="text-sm text-slate-600">servitic199225@gmail.co</p>
 
 </div>
 
@@ -966,7 +966,7 @@ Un plan de estudios dinámico estructurado por niveles de aprendizaje moral, int
 
 <h4 class="font-bold text-bahai-blue">Teléfono</h4>
 
-<p class="text-sm text-slate-600">+507 234-5678 / +507 6000-0000</p>
+<p class="text-sm text-slate-600">+66541519</p>
 
 </div>
 
@@ -982,7 +982,7 @@ Un plan de estudios dinámico estructurado por niveles de aprendizaje moral, int
 
 <p class="text-sm italic text-slate-200">
 
-"La luz de un mundo bueno y justo depende de la educación que brindamos a nuestros niños hoy."
+"La luz de un mundo bueno y justo depende de la educación que brindamos a nuestros niños de hoy."
 
 </p>
 
@@ -1084,7 +1084,7 @@ Un plan de estudios dinámico estructurado por niveles de aprendizaje moral, int
 
 <div class="w-10 h-10 rounded-full bg-bahai-gold flex items-center justify-center text-bahai-blue font-serif font-bold text-lg">9</div>
 
-<span class="font-serif text-2xl font-bold">Escuela Bahá'í</span>
+<span class="font-serif text-2xl font-bold">Centro Educativo Bahai</span>
 
 </div>
 
